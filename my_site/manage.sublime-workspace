@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"len",
+				"len_1"
+			],
+			[
+				"toke",
+				"tokenize_and_stem"
+			],
+			[
+				"new",
+				"new_line_after_subject"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"tra",
+				"train_and_judge"
+			],
+			[
+				"judg",
+				"judge_counts"
+			],
+			[
+				"train",
+				"train_counts"
+			],
+			[
+				"pre",
+				"predict"
+			],
+			[
+				"data",
+				"data_idx"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"tfidf",
+				"tfidf_transformer"
+			],
+			[
+				"train_",
+				"train_and_judge"
+			],
+			[
+				"rec",
+				"recall_score"
+			],
+			[
+				"X_new",
+				"X_new_counts"
+			],
+			[
+				"min",
+				"minCostClimbingStairs"
+			],
+			[
+				"binomial",
+				"binomial_coefficient"
+			],
+			[
+				"pru",
+				"prune_counter"
+			],
+			[
+				"pr",
+				"prune_counter"
+			],
+			[
+				"m1",
+				"m1_domain"
+			],
+			[
+				"m1_domain",
+				"m1_domain_backup"
+			],
+			[
+				"modified",
+				"modified_constraint"
+			],
+			[
+				"modif",
+				"modified_constraint"
+			],
+			[
+				"m",
+				"max_len"
+			],
+			[
+				"max",
+				"max_len"
+			],
+			[
+				"modifi",
+				"modified_variable_list"
+			],
+			[
+				"value",
+				"value_Xi"
+			],
+			[
+				"conf",
+				"conflict_list"
+			],
+			[
+				"con",
+				"constrants"
+			],
+			[
+				"filt",
+				"filtered_by_degree"
+			],
+			[
+				"vari",
+				"variable_list"
+			],
+			[
+				"DE",
+				"DEBUG"
+			],
+			[
+				"in",
+				"initial_complete_assignment"
+			],
+			[
+				"count",
+				"count_conflicts"
+			],
+			[
+				"get",
+				"get_conflict_list"
+			],
+			[
+				"assi",
+				"assign"
+			],
+			[
+				"ret",
+				"ret_variable"
+			],
+			[
+				"mini",
+				"minimum_remaining_values"
+			],
+			[
+				"print",
+				"print_csp"
+			],
+			[
+				"init",
+				"init_m1_domain"
+			],
+			[
+				"const",
+				"constraint"
+			],
+			[
+				"cons",
+				"constraints"
+			],
+			[
+				"D",
+				"DEBUG"
+			],
+			[
+				"gradient",
+				"gradient_0"
+			],
+			[
+				"def",
+				"default_h_val"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"current_inform",
+				"current_inform_with_f"
+			],
+			[
+				"new_s",
+				"new_state_inform"
+			],
+			[
+				"ma",
+				"matrix_size"
+			],
+			[
+				"initial",
+				"initial_inform"
+			],
+			[
+				"orig",
+				"orig_row"
+			],
+			[
+				"or",
+				"orig_col"
+			],
+			[
+				"ori",
+				"orig_row"
+			],
+			[
+				"new_",
+				"new_col"
+			],
+			[
+				"orig_",
+				"orig_row"
+			],
+			[
+				"goal",
+				"goal_state"
+			],
+			[
+				"bo",
+				"boundary"
+			],
+			[
+				"bla",
+				"blank_x"
+			],
+			[
+				"b",
+				"boundary"
+			],
+			[
+				"heur",
+				"heuristic_type"
+			],
+			[
+				"he",
+				"heuristic_type"
+			],
+			[
+				"file_",
+				"file_base_name"
+			],
+			[
+				"PS",
+				"Ps"
+			],
+			[
+				"A",
+				"AccAfter"
+			],
+			[
+				"L",
+				"L"
+			],
+			[
+				"R",
+				"R"
+			],
+			[
+				"_",
+				"_"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"S",
+				"Set2"
+			],
+			[
+				"i",
+				"intersection"
+			],
+			[
+				"Se",
+				"Set1"
+			],
+			[
+				"Set",
+				"Set"
+			],
+			[
+				"debug",
+				"debug_global_variable"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"nums",
+				"nums"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"previous",
+				"previous_pref_list"
+			],
+			[
+				"number_",
+				"number_of_people"
+			],
+			[
+				"generat",
+				"generate_location_list"
+			],
+			[
+				"pref1",
+				"pref1"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"arrange",
+				"arranged_pref_list"
+			],
+			[
+				"arrang",
+				"arranged_pref_list"
+			],
+			[
+				"person_",
+				"person_list_head"
+			],
+			[
+				"order",
+				"order_list"
+			],
+			[
+				"l",
+				"let\tSML 'let' block"
+			],
+			[
+				"shift",
+				"shift_h"
+			],
+			[
+				"test",
+				"test_data"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"PyYapf: Format Selection"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liam/CodeForever/nlp/stemmer.py",
+		"/Users/liam/CodeForever/python-algorithm-practice/convex_hull/convex_hull.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Summer/LeetCode/LetterCasePermutation.py",
+		"/Users/liam/CodeForever/nlp/aclImdb/train/neg/0_3.txt",
+		"/Users/liam/CodeForever/nlp/aclImdb/train/urls_neg.txt",
+		"/Users/liam/CodeForever/nlp/import nltk",
+		"/Users/liam/Desktop/CoCo/coco.py",
+		"/Users/liam/CodeForever/LeetcodePractice/python/LetterCombinationsOf_A_Phone_Number.py",
+		"/Users/liam/CodeForever/LeetcodePractice/python/lengthOfLongestSubstring.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/practice/divide_and_conquer/lcs.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/practice/divide_and_conquer/knapsack.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/practice/divide_and_conquer/counting_inversions.py",
+		"/Users/liam/Downloads/AuthorKit17/LaTeX/formatting-instructions-latex.tex",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/code/q2.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/code/q6.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/code/q5_grab_data.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/code/q5.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/A5_q2.dat.txt",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw5/q2.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Training/rec.sport.hockey/52564",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Training/rec.sport.hockey/52551",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Judge/sci.med/59442",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Judge/rec.sport.hockey/54225",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Judge/rec.sport.hockey/54224",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Judge/soc.religion.christian/21618",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Training/rec.sport.hockey/52550",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Judge/soc.religion.christian/21612",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/include/part4.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/include/part5.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/part5.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/part4.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/part3.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/part2.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/part1.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/include/parts1_2.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/include/part3.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/include/lott.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw4/include/sfish.h",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw4/src/sfish.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw5/src/lott.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw1/HW1_autograder/LiamWang_111407491/puzzleSolver.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw4/testexecs/sloop.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/test/Training/rec.sport.hockey/55022",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/UB_BB.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/test.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw2/Liam_Wang_111407491/minconflicts.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw2/Liam_Wang_111407491/dfsb.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/temp.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw3/Selected 20NewsGroup/Training/rec.sport.hockey/52550",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chessboard.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/PgnTokenizer.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/PgnParser.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/OpeningOracle.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/OccupancyParser.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/missed_mates.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/MineOpenings.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/LICENSE",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/Junk.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/HoldingBoard.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/Hogwarts.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/GenTools.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/CrazyLogic.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/CrazyBoard.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/ChessGraphics.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/ChessMove.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/ChessState.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/Common.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/practice/dynamic_programming/practice.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/practice/dynamic_programming/binomial_coefficient.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw4/reference",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/probability and statistics for data science/homework/hw4/q7.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/chess/ChessBoard.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/project/draw.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/homework/hw3/dp_longest_palindrome.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw2/Makefile",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw2/shkennedy_gradesheet.csv",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw2/shkennedy_gradesheet-EC.csv",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/homework/cse320-master/hw2/README.md",
+		"/Users/liam/Downloads/wiki.1191133177",
+		"/Users/liam/Downloads/wiki.1190153705",
+		"/Users/liam/CodeForever/subjects/artificial-intelligence/AI-practice/constraint-satisfaction-problem/dfsb.py",
+		"/Users/liam/CodeForever/subjects/artificial-intelligence/AI-practice/constraint-satisfaction-problem/minconflicts.py",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/User/PyYapf.sublime-settings",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/convex optimization/homework/hw2/Liam_Wang_111407491/dfsb.py",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/PyYapf Python Formatter/PyYapf.sublime-settings",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/convex optimization/homework/hw2/algorithms.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw1/puzzleSolver.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/homework/sum.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw1/puzzleGenerator.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/homework/bfs.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw1/test.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/analysis of algorithms/homework/4.txt",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/artificial intelligence/homework/hw1/3.txt",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/convex optimization/homework/practice/example.py",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/lecture/lecture_4/example_2.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/lecture/lecture_3/example_10.c",
+		"/Users/liam/Desktop/Stony Brook University/2018 Spring/system fundamentals II/lecture/lecture_3/example_8.c",
+		"/Users/liam/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-build",
+		"/Users/liam/CodeForever/subjects/system-fundamental/hello_world.c",
+		"/Users/liam/CodeForever/LeetcodePractice/python/rangoli.py",
+		"/Users/liam/CodeForever/LeetcodePractice/python/string_test.py",
+		"/Users/liam/CodeForever/SOUL/ArchitectureLaw/src/js/main.js",
+		"/Users/liam/CodeForever/SOUL/ArchitectureLaw/src/js/main_bk.js",
+		"/Users/liam/CodeForever/SOUL/ArchitectureLaw/index.html",
+		"/Users/liam/CodeForever/LeetcodePractice/python/addTwoNumbers.py",
+		"/Users/liam/CodeForever/LeetcodePractice/python/twoSum/two_sum.py",
+		"/Users/liam/CodeForever/LeetcodePractice/python/twoSum/two_sum(nums, target):",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/interleave.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/test.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/flatten.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/quiz2.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/set.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/quiz1.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/goldbach.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/selection_sort.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/least.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/manager.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/prime.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/cartesian_product.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/member.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/powerset.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/running_sum.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/path.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/practice/anagram.pl",
+		"/Users/liam/CodeForever/subjects/programming-language/prolog/anagram.pl"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 259.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
